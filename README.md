@@ -17,3 +17,11 @@ Steps:
 
 Result:
 - Accuracy obtained using KNN model.
+
+Interview Questions:
+
+1.What is KNN?
+A classification algorithm that predicts using the nearest neighbors.
+
+2. How do you choose the value of K?
+Test different K values and choose the one with the best accuracy.
